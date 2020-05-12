@@ -1,0 +1,33 @@
+body {
+  background-image: url('https://i.pinimg.com/originals/45/d1/e7/45d1e72daa4a14e49abf26bbadded453.jpg');
+  background-attachment: fixed;
+  background-size: auto 100vh;
+  background-color: #1C1C1C;
+  font-family: Comic Sans MS;
+  }
+.menu{
+  border: 2px solid gray;
+  border-radius: 8px;
+} 
+.menu ul{
+    display: flex;
+    justify-content: space-around;
+}
+.menu li{
+  list-style: none;
+}
+a{
+  text-decoration: none;
+  color: White;
+}
+a:hover{
+  text-decoration: underline;
+}
+.site-title{
+  color: white;
+  text-align: center;
+ }
+.site-subtitle{
+  color: white;
+  text-align: center;
+}
